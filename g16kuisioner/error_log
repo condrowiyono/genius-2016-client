@@ -1,0 +1,6 @@
+[30-Jan-2016 03:33:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/geniussb/public_html/account/g16kuisioner/aksi.php on line 32
+[30-Jan-2016 03:33:29 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/geniussb/public_html/account/g16kuisioner/aksi.php on line 42
+[30-Jan-2016 03:35:02 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/geniussb/public_html/account/g16kuisioner/aksi.php on line 33
+[30-Jan-2016 03:43:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/geniussb/public_html/account/g16kuisioner/aksi.php on line 43
+[30-Jan-2016 03:43:23 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/geniussb/public_html/account/g16kuisioner/aksi.php on line 43
+[30-Jan-2016 04:01:11 UTC] PHP Parse error:  syntax error, unexpected 've' (T_STRING) in /home/geniussb/public_html/account/g16kuisioner/aksi.php on line 45
